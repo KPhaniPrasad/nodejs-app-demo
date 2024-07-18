@@ -1,0 +1,13 @@
+{
+  "name": "nodejs-app",
+  "version": "1.0.0",
+  "description": "Node.js script to connect to AWS RDS MySQL database",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^10.0.0",
+    "mysql": "^2.18.1"
+  }
+}
